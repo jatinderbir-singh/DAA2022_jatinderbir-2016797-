@@ -20,4 +20,4 @@ int main()
     }
         cout<<"no. of copies of key: "<<count<<endl;
 }
-return o;
+
